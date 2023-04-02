@@ -1,2 +1,2 @@
-# Mathematical-foundations-of-machine-learning-HW
-Home work 
+# Mathematical-foundations-of-machine-learning-HW2
+Home work #2
